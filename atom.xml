@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fatdeadpanda.vercel.app</id>
+    <title>Here&apos;s Tina&apos;s blog !!! </title>
+    <updated>2022-07-22T14:50:08.473Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fatdeadpanda.vercel.app"/>
+    <link rel="self" href="https://fatdeadpanda.vercel.app/atom.xml"/>
+    <subtitle>Welcome to my blog !!!!!!</subtitle>
+    <logo>https://fatdeadpanda.vercel.app/images/avatar.png</logo>
+    <icon>https://fatdeadpanda.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2022, Here&apos;s Tina&apos;s blog !!! </rights>
+</feed>
